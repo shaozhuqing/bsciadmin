@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT
+ * APPLICATION ENVIRONMENT2
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
